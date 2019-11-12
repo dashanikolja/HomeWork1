@@ -1,0 +1,95 @@
+@import url(reset.css);
+
+.header, .footer {
+	position: absolute;
+	width: 1440px;
+	height: 60px;
+	background-color: #FE1A19;
+
+}
+
+.footer {
+	top: 964px;
+	position: absolute;
+}
+
+.heading {
+	position: absolute;
+	width: 820px;
+	height: 20px;
+	left: 20px;
+	top: 20px;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 23px;
+	color: #FFFFFF;
+}
+
+section {
+	position: absolute;
+	width: 400px;
+	top: 112px;
+	border: 5px solid #E5E000;
+	border-radius: 30px;
+	box-sizing: border-box;
+}
+
+.column1 {
+	left: 70px;
+	top: 112px;
+}
+
+.column2 {
+	left: 520px;
+	top: 112px;
+}
+
+.column3 {
+	left: 970px;
+	top:112px;
+}
+
+.column-head {
+	font-weight: bold;
+	font-family: Helvetica
+	font-size: 20px;
+	line-height: 23px;
+	left: 103px;
+	top: 139px;
+	margin: 20px 0 0 20px;
+}
+
+.list1, .list2, .list3, .list4 {
+	position: relative;
+	font-family: Times New Roman;
+	font-size: 20px;
+	line-height: 23px;
+	color: black;
+	margin: 20px 0 0 20px;
+}
+.list4 {
+	margin-bottom: 20px;
+}
+
+.footer-h1 {
+	position: absolute;
+	font-family: Helvetica;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 23px;
+	left: 20px;
+	color: #FFFFFF;
+	top: 20px;
+}
+
+.footer-p {
+	position: absolute;
+	top: 20px;
+	left: 1350px;
+	color: #FFFFFF;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 23px;
+	font-weight: bold;
+
+}
