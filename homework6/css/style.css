@@ -9,7 +9,10 @@
 }
 
 .heading {
-	
+	font-family: Arial;
+	font-size: 50px;
+	line-height: 57px;
+	color: #E50043;
 
 }
 
@@ -20,5 +23,5 @@
 
 
 .img1 {
-	background-image: url(../img/123.jpg);
+	background-image: : url(../img/123.jpg);
 }
