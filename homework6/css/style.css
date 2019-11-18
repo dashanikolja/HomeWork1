@@ -7,6 +7,7 @@
 	background-color: #fff;
 	display: flex;
 	align-items: center;
+	flex-direction: row;
 }
 
 .heading {
@@ -14,18 +15,21 @@
 	font-size: 50px;
 	line-height: 57px;
 	color: #E50043;
-	position: absolute;
+	position: relative;
 	margin: 47px 0 0 48px;
 
 }
 
-.head-links {
+.links-container {
 	font-family: Arial;
 	font-size: 50px;
 	line-height: 57px;
 	color: #E50043;
-	position: absolute;
+	text-decoration: none;
+	position: relative;
+	display: inline-flex;
 	
+
 }
 
 
