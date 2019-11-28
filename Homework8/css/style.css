@@ -26,6 +26,7 @@
     justify-content: space-between;
     flex-direction: row;
     align-items: : flex-start;
+    padding-bottom: 70px;
 
     
 
@@ -82,5 +83,6 @@ ul {
     font-size: 50px;
     line-height: 57px;
     color: #000000;
+    
 
 }
