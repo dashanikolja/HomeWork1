@@ -57,9 +57,11 @@ h2 {
 }
 
 .block {
-	width: 300px;
+	/*width: calc((100% - 20px)/2);*/
+    width: 300px;
     display: flex;
     align-items: center;
+    
     
    
 
