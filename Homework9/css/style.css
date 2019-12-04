@@ -53,12 +53,14 @@ h2 {
 	justify-content: space-around;
 	flex-direction: row;
 	flex-wrap: wrap;
+    width: 90%;
+    margin: 0 auto;
 
 }
 
 .block {
 	/*width: calc((100% - 20px)/2);*/
-    width: 300px;
+    width: 600px;
     display: flex;
     align-items: center;
     
